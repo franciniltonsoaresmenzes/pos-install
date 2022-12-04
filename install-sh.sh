@@ -2,7 +2,7 @@
 
 set -e
 
-##URLS
+##URL
 
 URL_GOOGLE_CHROME="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
 DIRETORIO_DOWNLOADS="$HOME/Downloads/programas"
